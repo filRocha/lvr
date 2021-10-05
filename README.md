@@ -1,3 +1,3 @@
 # Laboratório Virtual de Robótica
 
-  Acesse [simula.filgusto.com](simula.filgusto.com)
+Acesso o conteúdo do curso em [simula.filgusto.com](https://simula.filgusto.com/)
